@@ -27,6 +27,5 @@ The "Speech Emotion Recognition" project is a Python-based application that aims
 
 ## Future Enhancements
 
-- **Real-time Recognition**: Implement real-time emotion recognition capabilities for live audio streams.
 - **Multimodal Integration**: Integrate other modalities such as facial expressions or text analysis for improved emotion recognition accuracy.
 - **User Interface**: Develop a user-friendly interface for easy interaction with the emotion recognition system.
