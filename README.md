@@ -23,9 +23,4 @@ The "Speech Emotion Recognition" project is a Python-based application that aims
 - **Librosa**: Python library for audio and music analysis.
 - **Scikit-learn**: Machine learning library for building classification models.
 - **TensorFlow or PyTorch**: Deep learning frameworks for developing neural network models.
-- **Matplotlib**: Python plotting library for visualization of results.
-
-## Future Enhancements
-
-- **Multimodal Integration**: Integrate other modalities such as facial expressions or text analysis for improved emotion recognition accuracy.
-- **User Interface**: Develop a user-friendly interface for easy interaction with the emotion recognition system.
+- **Matplotlib**: Python plotting library .
